@@ -12,7 +12,7 @@
  "addons": [
     {
        "options": {
-          "version": "22"
+          "version": "14"
        },
        "plan": "heroku-postgresql"
     }
