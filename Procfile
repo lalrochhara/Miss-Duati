@@ -1,2 +1,2 @@
-worker: python3 -m Miss-Duati
+worker: python3 -m Duati
 ps:scale worker=1
